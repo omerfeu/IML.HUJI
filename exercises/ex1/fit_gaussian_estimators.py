@@ -58,3 +58,4 @@ def multivariate():
 if __name__ == "__main__":
     univariate()
     multivariate()
+
